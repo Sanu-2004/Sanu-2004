@@ -2,7 +2,7 @@
 - 👀 I’m interested in development
 - 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on big projects
-- 📫 How to reach me: <!-- ERROR -->
+- 📫 How to reach me: @lt!-- ERROR --&gt
 - 😄 Pronouns: HE
 - ⚡ Fun fact: 'Never Gonna Give You Up'
 
